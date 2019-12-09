@@ -13,7 +13,6 @@ And then insert path to your folder with images in console.
 
 All images will be saved to your   ...*'path'/converted*  subfolder.
 
-There also win executable version available (converter.exe).
 
 ## Contributing
 Feel free to pull request. 
