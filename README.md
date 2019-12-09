@@ -11,7 +11,7 @@ python converter.py
 ```
 And then insert path to your folder with images in console. 
 
-All images will be saved to your   ...*'path'*/converted  subfolder.
+All images will be saved to your   ...*'path'/converted*  subfolder.
 
 There also win executable version available (converter.exe).
 
