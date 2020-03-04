@@ -3,19 +3,11 @@
 Simple raw image console converter.
 
 
-
 ## Usage
-First , just do : 
-```
-python converter.py 
-```
-And then insert path to your folder with images in console. 
 
-All images will be saved to your   ...*'path'/converted*  subfolder.
+Insert path to your folder with images in console. 
 
-
-## Contributing
-Feel free to pull request. 
+All images will be saved to your  *'...path'/converted*  subfolder.
 
 ## Libraries were used
 
